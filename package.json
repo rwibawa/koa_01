@@ -1,0 +1,16 @@
+{
+  "name": "koa_01",
+  "version": "1.0.0",
+  "description": "learn koajs",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Wibawa <ryan.wibawa@gmail.com> (https://github.com/rwibawa)",
+  "license": "ISC"
+}
